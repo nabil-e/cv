@@ -7,10 +7,10 @@ body {
 }
 
 .container {
-    background: #fff;
+    background: rgb(231, 224, 216);
     padding: 70px 75px;
     margin: 50px auto;
-    border: 1px solid #a5d4fc;
+    border: 1px solid #d9e8f5;
 }
 
 img {
